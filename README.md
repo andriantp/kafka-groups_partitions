@@ -12,8 +12,9 @@ Experiments and learning notes on integrating **Apache Kafka** with **Golang**, 
    👉 [Read article](https://andriantriputra.medium.com/golang-x-kafka-2-understanding-consumer-groups-and-partitions-8013bef73e2e)  
    📊 Focus: concepts of partitions, consumer groups, and how load balancing works.  
 
-3. **Offset Management & Replay** *(coming soon)*  
-   👉 Will cover how Kafka stores offsets, manual/auto commit, and replaying events from a specific offset.  
+3. **Offset Management & Replay** 
+   👉 [Read article](https://andriantriputra.medium.com/golang-x-kafka-3-offset-management-replay-145e5b57aad9)
+   📊 Focus: cover how Kafka stores offsets, manual/auto commit, and replaying events from a specific offset.  
 
 ## 🚀 How to Run Examples
 
